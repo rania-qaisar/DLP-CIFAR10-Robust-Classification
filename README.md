@@ -225,7 +225,7 @@ TTA provided a small improvement for the clean-test evaluation of the final anal
 
 The complete implementation, experiments, training procedures, evaluation, and results are available in the executed Jupyter Notebook.
 
-📓 **[View the Complete Notebook](DLP_Assignment2.ipynb)**
+📓 **[View the Complete Notebook](DLP.ipynb)**
 
 ---
 
