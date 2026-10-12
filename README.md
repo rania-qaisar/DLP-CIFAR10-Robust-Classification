@@ -117,7 +117,8 @@ The shifted test set applies controlled transformations including:
 
 A fixed seed was used to make the shifted evaluation reproducible.
 
-> The assignment specifies an additional hidden corruption, but its exact identity is intentionally not disclosed. Therefore, this repository does not claim to reproduce an undisclosed hidden corruption.
+The shifted evaluation was designed to measure the model's robustness to
+changes in image appearance and partial occlusion.
 
 ---
 
