@@ -117,8 +117,7 @@ The shifted test set applies controlled transformations including:
 
 A fixed seed was used to make the shifted evaluation reproducible.
 
-The shifted evaluation was designed to measure the model's robustness to
-changes in image appearance and partial occlusion.
+The shifted evaluation was designed to measure the model's robustness to changes in image appearance and partial occlusion.
 
 ---
 
@@ -219,6 +218,14 @@ Results:
 | Shifted Test | **27.57%** |
 
 TTA provided a small improvement for the clean-test evaluation of the final analysis model, while shifted-test performance remained slightly below the overall three-seed final-model result.
+
+---
+
+## Notebook
+
+The complete implementation, experiments, training procedures, evaluation, and results are available in the executed Jupyter Notebook.
+
+📓 **[View the Complete Notebook](DLP_Assignment2.ipynb)**
 
 ---
 
