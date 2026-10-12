@@ -136,9 +136,9 @@ The large performance drop demonstrates that the model was highly sensitive to d
 
 ### Baseline Learning Curves
 
-![Baseline Loss](figures/baseline_loss.png)
+![Baseline Loss](baseline_loss.png)
 
-![Baseline Accuracy](figures/baseline_accuracy.png)
+![Baseline Accuracy](baseline_accuracy.png)
 
 ---
 
@@ -191,7 +191,7 @@ These results highlight the difficulty of learning reliable class boundaries fro
 
 ## Confusion Matrix
 
-![Confusion Matrix](figures/partE_confusion_matrix.png)
+![Confusion Matrix](partE_confusion_matrix.png)
 
 ---
 
@@ -199,7 +199,7 @@ These results highlight the difficulty of learning reliable class boundaries fro
 
 Eight misclassified test examples were visualized to analyze model failure cases.
 
-![Misclassified Examples](figures/partE_misclassified_8.png)
+![Misclassified Examples](partE_misclassified_8.png)
 
 ---
 
